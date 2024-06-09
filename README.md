@@ -1,4 +1,4 @@
-#  ✧ Projeto Sistema Operacional de Compras.  ✧
+#  ✧ Projeto Sistema Operacional de Compras  ✧
 
 💻 Este seguinte projeto é uma atividade prática do componente curricular programação web, do curso de desenvolvimento de sistemas. 💻
 
